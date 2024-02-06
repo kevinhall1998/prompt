@@ -1,11 +1,7 @@
-简明prompt提示词工程
-快速上手
 
+### 请使用code页面访问该文档
 
 郝铠锋 整理 20240203
-
-
-
 https://gitee.com/kevinhall/prompt
  
 
