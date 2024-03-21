@@ -6,7 +6,7 @@
 
 - [ 一、BORE分析法](#一、BORE分析法)
 - [ 二、CRISPE提示5步法](#CRISPE提示5步法)
-- [三、one-shot 提示词方法](#三、one-shot 提示词方法)
+- [三、one-shot提示词方法](#三、one-shot提示词方法)
 - [四、Few-shot提示词方法](#四、Few-shot提示词方法)
 - [五、COT链式逐步思考方法](#五、COT链式逐步思考方法)
 - [六、Langgpt方法-MetaPrompt](#六、Langgpt方法-MetaPrompt)
