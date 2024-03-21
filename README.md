@@ -1,7 +1,7 @@
 
 ## 郝铠锋 整理 20240203
 https://gitee.com/kevinhall/prompt<br />
-- [📌"BORE"分析法](#"BORE"分析法)<br/>
+- [📌"BORE"分析法](#"-BORE"分析法)<br/>
 一、BORE"分析法	2<br />
 二、CRISPE提示5步法	2<br />
 三、one-shot 提示词方法	3<br />
