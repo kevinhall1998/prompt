@@ -1,3 +1,11 @@
+# 简明提示词工程快速上手
+![python version](https://img.shields.io/badge/python-3.8+-orange.svg)
+![GitHub Repo stars](https://img.shields.io/github/stars/kevinhall1998/ASR_jupyter)
+![GitHub](https://img.shields.io/github/license/kevinhall/ASR_jupyter)
+![支持系统](https://img.shields.io/badge/支持系统-Win/Linux/MAC-9cf)
+<div align="center">
+郝铠锋 20230321
+</div>
 <!-- DO NOT REMOVE ME -->
 <hr>
 <details open>
