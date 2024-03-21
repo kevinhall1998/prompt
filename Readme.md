@@ -300,7 +300,8 @@ OpenAI官方prompt六条策略：<br />
   <a href="#top">Back to top ⬆️ </a>  ] 
 </p>
 
-参考文献：<br />
+## 参考文献：
+<br />
 [1]ATLAS Project Data. GitHub. <br />
 https://github.com/VILA-Lab/ATLAS/blob/main/data/README.md<br />
 [2] 小虎AI珏爷 https://zhuanlan.zhihu.com/p/642957245<br />
