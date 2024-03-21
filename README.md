@@ -3,7 +3,7 @@ https://gitee.com/kevinhall/prompt<br />
 <hr>
 <details open>
 <summary></b>📕 目录</b></summary>
-![点击跳转](#BORE分析法)<br/>
+[点击跳转](#BORE分析法)<br/>
 一、BORE"分析法	2<br />
 二、CRISPE提示5步法	2<br />
 三、one-shot 提示词方法	3<br />
