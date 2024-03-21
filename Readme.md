@@ -4,18 +4,18 @@
 <details open>
 <summary></b>📕 目录</b></summary>
 
-- [一、BORE分析法](#BORE分析法)
-- [二、CRISPE提示5步法](#CRISPE提示5步法)
-- [三、one-shot提示词方法](#one-shot提示词方法)
-- [四、Few-shot提示词方法](#四.Few-shot提示词方法)
-- [五、COT链式逐步思考方法](#COT链式逐步思考方法)
-- [六、Langgpt方法MetaPrompt](#Langgpt方法MetaPrompt)
+- [一、BORE分析法](#一BORE分析法)
+- [二、CRISPE提示5步法](#二CRISPE提示5步法)
+- [三、one-shot提示词方法](#三one-shot提示词方法)
+- [四、Few-shot提示词方法](#四Few-shot提示词方法)
+- [五、COT链式逐步思考方法](#五COT链式逐步思考方法)
+- [六、Langgpt方法MetaPrompt](#六Langgpt方法MetaPrompt)
 - [附录：Prompt提示词的26项原则](#附录26项原则)
 - [参考文献](#参考文献)
 
 </details>
 
-## BORE分析法 
+## 一BORE分析法 
 
 <br />
 
@@ -32,7 +32,7 @@
 </p>
 <hr>
 
-## CRISPE提示5步法
+## 二CRISPE提示5步法
 
 <br />
 
@@ -66,7 +66,7 @@
   <a href="#top">Back to top ⬆️ </a>  ] 
 </p>
 
-## one-shot提示词方法
+## 三one-shot提示词方法
 <br />
 One-shot 提示词方法是一种简洁的指示方式，用于教会大模型立即完成特定任务。它只通过提供单次、明确的指示或问题，使模型能够理解任务并直接生成所需输出，无需多轮交互或复杂背景信息。这种方法要求提示词既简短又包含足够的信息，以确保模型准确理解并产生符合期望的结果。<br />
 
@@ -98,7 +98,7 @@ One-shot 提示词方法是一种简洁的指示方式，用于教会大模型�
      <a href="#top">Back to top ⬆️ </a>  ] 
    </p>
 
-## 四.Few-shot提示词方法
+## 四Few-shot提示词方法
 <br />
    Few-shot提示词方法是一种利用少量示例来引导模型生成文本或其他形式输出的技术。这种方法在提示词中包含了几个示例，以帮助模型理解任务的要求和期望的输出格式。下面是一个使用few-shot提示词方法生成文本的案例：<br />
 
@@ -133,7 +133,7 @@ One-shot 提示词方法是一种简洁的指示方式，用于教会大模型�
      <a href="#top">Back to top ⬆️ </a>  ] 
    </p>
 
-## COT链式逐步思考方法
+## 五COT链式逐步思考方法
 
 <br />
   COT提示词，即Chain of Thought（思维链）提示词，是一种强大的提示技术。它可以帮助语言模型进行复杂的推理，使得用户和人工智能的交流更高效、深入。在提问或给出指令时，通过提供一系列连贯的思考步骤或相关背景信息，用户可以引导AI模型更准确地理解和回答问题，或执行更复杂的任务。这种方法对于需要多步骤推理或解决复杂问题的情况尤为有效。<br />
@@ -167,7 +167,7 @@ One-shot 提示词方法是一种简洁的指示方式，用于教会大模型�
      <a href="#top">Back to top ⬆️ </a>  ] 
    </p>
 
-## Langgpt方法-MetaPrompt 
+## 六Langgpt方法-MetaPrompt 
 
 <br />
 
