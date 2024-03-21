@@ -15,9 +15,6 @@
 </details>
 
 ## 一BORE分析法 
-
-<br />
-<hr>
 <details open>
   <summary>←点击展开</summary>
 1. 阐述背景B (Background) ：说明背景，为GPT提供充足信息<br />
@@ -32,7 +29,6 @@
   <a href="#top">Back to top ⬆️ </a>  ] 
 </p>
 </details>
-<hr>
 
 ## 二CRISPE提示5步法
 
