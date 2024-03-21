@@ -4,12 +4,12 @@
 <details open>
 <summary></b>📕 目录</b></summary>
 
-- [ 一、BORE分析法](#一、BORE分析法)
-- [ 二、CRISPE提示5步法](#CRISPE提示5步法)
+- [一、BORE分析法](#一、BORE分析法)
+- [二、CRISPE提示5步法](#CRISPE提示5步法)
 - [三、one-shot提示词方法](#三、one-shot提示词方法)
 - [四、Few-shot提示词方法](#四、Few-shot提示词方法)
 - [五、COT链式逐步思考方法](#五、COT链式逐步思考方法)
-- [六、Langgpt方法-MetaPrompt](#六、Langgpt方法-MetaPrompt)
+- [六、Langgpt方法MetaPrompt](#六、Langgpt方法MetaPrompt)
 - [附录：Prompt提示词的26项原则](#附录：Prompt提示词的26项原则)
 - [参考文献](#参考文献)
 
