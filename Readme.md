@@ -15,6 +15,7 @@
 
 </details>
 
+<details open>
 ## 一BORE分析法 
 
 <br />
@@ -31,7 +32,7 @@
   <a href="#top">Back to top ⬆️ </a>  ] 
 </p>
 <hr>
-
+</details>
 ## 二CRISPE提示5步法
 
 <br />
