@@ -15,11 +15,11 @@
 
 </details>
 
-<details open>
 ## 一BORE分析法 
 
 <br />
-
+<hr>
+<details open>
 1. 阐述背景B (Background) ：说明背景，为GPT提供充足信息<br />
 2.定义目标O (Objectives) ：“我们希望实现什么”<br />
 3.定义关键结果R (key Result) ：“我要什么具体效果”<br />
@@ -31,8 +31,9 @@
 <p align="right"> [
   <a href="#top">Back to top ⬆️ </a>  ] 
 </p>
-<hr>
 </details>
+<hr>
+
 ## 二CRISPE提示5步法
 
 <br />
