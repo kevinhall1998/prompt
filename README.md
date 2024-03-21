@@ -1,5 +1,4 @@
 
-## 郝铠锋 整理 20240203
 https://gitee.com/kevinhall/prompt<br />
 <hr>
 <details open>
@@ -17,6 +16,7 @@ https://gitee.com/kevinhall/prompt<br />
 
 <hr>
 <br />
+
 ## BORE分析法 
 用"BORE"分析法设计GPT prompt<br />
 <br />
