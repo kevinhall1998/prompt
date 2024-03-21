@@ -1,5 +1,3 @@
-
-https://gitee.com/kevinhall/prompt<br />
 <hr>
 <details open>
 <summary></b>📕 目录</b></summary>
