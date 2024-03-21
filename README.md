@@ -1,6 +1,9 @@
 
 ## 郝铠锋 整理 20240203
 https://gitee.com/kevinhall/prompt<br />
+<hr>
+<details open>
+<summary></b>📕 目录</b></summary>
 - [📌"BORE"分析法](#"-BORE"分析法)<br/>
 一、BORE"分析法	2<br />
 二、CRISPE提示5步法	2<br />
@@ -10,7 +13,9 @@ https://gitee.com/kevinhall/prompt<br />
 六、Langgpt方法-MetaPrompt	7<br />
 附录：Prompt提示词的26项原则	8<br />
 参考文献：	13<br />
-<br />
+</details>
+
+<hr>
 <br />
 # 📌"BORE"分析法 <br />
 用"BORE"分析法设计GPT prompt<br />
