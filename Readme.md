@@ -7,7 +7,7 @@
 - [一、BORE分析法](#BORE分析法)
 - [二、CRISPE提示5步法](#CRISPE提示5步法)
 - [三、one-shot提示词方法](#one-shot提示词方法)
-- [四、Few-shot提示词方法](#Few-shot提示词方法)
+- [四、Few-shot提示词方法](#四、Few-shot提示词方法)
 - [五、COT链式逐步思考方法](#COT链式逐步思考方法)
 - [六、Langgpt方法MetaPrompt](#Langgpt方法MetaPrompt)
 - [附录：Prompt提示词的26项原则](#附录26项原则)
@@ -98,7 +98,7 @@ One-shot 提示词方法是一种简洁的指示方式，用于教会大模型�
      <a href="#top">Back to top ⬆️ </a>  ] 
    </p>
 
-## Few-shot提示词方法
+## 四、Few-shot提示词方法
 <br />
    Few-shot提示词方法是一种利用少量示例来引导模型生成文本或其他形式输出的技术。这种方法在提示词中包含了几个示例，以帮助模型理解任务的要求和期望的输出格式。下面是一个使用few-shot提示词方法生成文本的案例：<br />
 
