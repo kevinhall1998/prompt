@@ -1,6 +1,7 @@
 
 ## 郝铠锋 整理 20240203
 https://gitee.com/kevinhall/prompt<br />
+- [📌"BORE"分析法](#"BORE"分析法)
 一、BORE"分析法	2<br />
 二、CRISPE提示5步法	2<br />
 三、one-shot 提示词方法	3<br />
@@ -11,7 +12,7 @@ https://gitee.com/kevinhall/prompt<br />
 参考文献：	13<br />
 <br />
 <br />
-一、BORE"分析法<br />
+#📌"BORE"分析法 <br />
 用"BORE"分析法设计GPT prompt<br />
 <br />
 1. 阐述背景B (Background) ：说明背景，为GPT提供充足信息<br />
