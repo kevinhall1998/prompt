@@ -15,7 +15,6 @@
 </details>
 
 ## 一BORE分析法 
-<hr>
 <details open>
   <summary>←展开或合并</summary>
 1. 阐述背景B (Background) ：说明背景，为GPT提供充足信息<br />
@@ -32,8 +31,8 @@
 </details>
 
 ## 二CRISPE提示5步法
-
-<br />
+<details open>
+  <summary>←展开或合并</summary>
 
 ### 1.Capacity and Role，（角色与能力）
 <br />
@@ -64,9 +63,12 @@
    <p align="right"> [
   <a href="#top">Back to top ⬆️ </a>  ] 
 </p>
+</details>
 
 ## 三one-shot提示词方法
 <br />
+<details open>
+  <summary>←展开或合并</summary>
 One-shot 提示词方法是一种简洁的指示方式，用于教会大模型立即完成特定任务。它只通过提供单次、明确的指示或问题，使模型能够理解任务并直接生成所需输出，无需多轮交互或复杂背景信息。这种方法要求提示词既简短又包含足够的信息，以确保模型准确理解并产生符合期望的结果。<br />
 
 ```
@@ -96,9 +98,12 @@ One-shot 提示词方法是一种简洁的指示方式，用于教会大模型�
    <p align="right"> [
      <a href="#top">Back to top ⬆️ </a>  ] 
    </p>
+</details>
 
 ## 四Few-shot提示词方法
 <br />
+<details open>
+  <summary>←展开或合并</summary>
    Few-shot提示词方法是一种利用少量示例来引导模型生成文本或其他形式输出的技术。这种方法在提示词中包含了几个示例，以帮助模型理解任务的要求和期望的输出格式。下面是一个使用few-shot提示词方法生成文本的案例：<br />
 
    Few-shot 提示词：<br />
@@ -131,10 +136,12 @@ One-shot 提示词方法是一种简洁的指示方式，用于教会大模型�
    <p align="right"> [
      <a href="#top">Back to top ⬆️ </a>  ] 
    </p>
+</details>
 
 ## 五COT链式逐步思考方法
-
 <br />
+<details open>
+  <summary>←展开或合并</summary>
   COT提示词，即Chain of Thought（思维链）提示词，是一种强大的提示技术。它可以帮助语言模型进行复杂的推理，使得用户和人工智能的交流更高效、深入。在提问或给出指令时，通过提供一系列连贯的思考步骤或相关背景信息，用户可以引导AI模型更准确地理解和回答问题，或执行更复杂的任务。这种方法对于需要多步骤推理或解决复杂问题的情况尤为有效。<br />
     作为一种促进语言模型推理的方法，思维链提示具有几个有吸引力的特性。<br />
   首先，原则上，思想链允许模型将多步骤问题分解为中间步骤，这意味着可以将额外的计算分配给需要更多推理步骤的问题。<br />
@@ -165,11 +172,15 @@ One-shot 提示词方法是一种简洁的指示方式，用于教会大模型�
    <p align="right"> [
      <a href="#top">Back to top ⬆️ </a>  ] 
    </p>
+</details>
 
 ## 六Langgpt方法-MetaPrompt 
 
 <br />
 
+<details open>
+  <summary>←展开或合并</summary>
+  
 ```
 # Role: 知识探索专家
 
@@ -226,9 +237,12 @@ One-shot 提示词方法是一种简洁的指示方式，用于教会大模型�
    <p align="right"> [
      <a href="#top">Back to top ⬆️ </a>  ] 
    </p>
-
+</details>
 ## 附录26项原则
 
+<details open>
+  <summary>←展开或合并</summary>
+  
 | #Principle | Prompt Principle | Example Prompt |
 |:------------:|------------------| ---------------------|
 | 1          | If you prefer more concise answers, no need to be polite with LLM so there is no need to add phrases like “please", "if you don't mind", "thank you", "I would like to", etc., and get straight to the point. | ~~Could you kindly describe the structure of a human cell, please?~~ Describe the structure of a human cell. |
@@ -263,7 +277,6 @@ One-shot 提示词方法是一种简洁的指示方式，用于教会大模型�
 <p align="right"> [
   <a href="#top">Back to top ⬆️ </a>  ] 
 </p>
-
 <br />
 OpenAI官方prompt六条策略：<br />
 
@@ -299,7 +312,7 @@ OpenAI官方prompt六条策略：<br />
 <p align="right"> [
   <a href="#top">Back to top ⬆️ </a>  ] 
 </p>
-
+</details>
 ## 参考文献：
 <br />
 [1]ATLAS Project Data. GitHub. <br />
