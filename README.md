@@ -12,7 +12,7 @@ https://gitee.com/kevinhall/prompt<br />
 参考文献：	13<br />
 <br />
 <br />
-#📌"BORE"分析法 <br />
+# 📌"BORE"分析法 <br />
 用"BORE"分析法设计GPT prompt<br />
 <br />
 1. 阐述背景B (Background) ：说明背景，为GPT提供充足信息<br />
