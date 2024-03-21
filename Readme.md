@@ -238,6 +238,7 @@ One-shot 提示词方法是一种简洁的指示方式，用于教会大模型�
      <a href="#top">Back to top ⬆️ </a>  ] 
    </p>
 </details>
+
 ## 附录26项原则
 
 <details open>
