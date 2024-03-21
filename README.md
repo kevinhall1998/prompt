@@ -4,7 +4,7 @@ https://gitee.com/kevinhall/prompt<br />
 <hr>
 <details open>
 <summary></b>📕 目录</b></summary>
-- [📌"BORE"分析法](# BORE分析法)<br/>
+- [BORE分析法](#BORE分析法)<br/>
 一、BORE"分析法	2<br />
 二、CRISPE提示5步法	2<br />
 三、one-shot 提示词方法	3<br />
@@ -17,7 +17,7 @@ https://gitee.com/kevinhall/prompt<br />
 
 <hr>
 <br />
-# BORE分析法 
+## BORE分析法 
 用"BORE"分析法设计GPT prompt<br />
 <br />
 1. 阐述背景B (Background) ：说明背景，为GPT提供充足信息<br />
