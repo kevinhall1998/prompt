@@ -348,12 +348,12 @@ One-shot 提示词方法是一种简洁的指示方式，用于教会大模型�
 OpenAI官方prompt六条策略：<br />
 
 ```
-•	在查询中包含详细信息以获得更相关的答案<br />
-•	为模型赋予特定的角色<br />
-•	使用定界符清楚地指示输入的不同部分<br />
-•	指定完成任务所需的步骤<br />
-•	提供例子<br />
-•	指定所需的输出长度<br />
+•	在查询中包含详细信息以获得更相关的答案
+•	为模型赋予特定的角色
+•	使用定界符清楚地指示输入的不同部分
+•	指定完成任务所需的步骤
+•	提供例子
+•	指定所需的输出长度
 ```
 
 解读：<br />
@@ -365,12 +365,12 @@ OpenAI官方prompt六条策略：<br />
 原文：<br />
 
 ```
-•	Include details in your query to get more relevant answers<br />
-•	Ask the model to adopt a persona<br />
-•	Use delimiters to clearly indicate distinct parts of the input<br />
-•	Specify the steps required to complete a task<br />
-•	Provide examples<br />
-•	Specify the desired length of the output<br />
+•	Include details in your query to get more relevant answers
+•	Ask the model to adopt a persona
+•	Use delimiters to clearly indicate distinct parts of the input
+•	Specify the steps required to complete a task
+•	Provide examples
+•	Specify the desired length of the output
 ```
 
 
