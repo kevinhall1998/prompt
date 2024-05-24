@@ -3,10 +3,12 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/kevinhall1998/ASR_jupyter)
 ![GitHub](https://img.shields.io/github/license/kevinhall/ASR_jupyter)
 ![支持系统](https://img.shields.io/badge/支持系统-Win/Linux/MAC-9cf)
-<div align="center">
+<div>
   在面对大模型编写prompt时，使用了类似于需求工程的方法来分析和管理大模型的任务，称之为prompt工程。<br />
   编写的prompt语句旨在生成一个智能体（角色）来完成需要的任务，这参考了编程思维中的 面向对象（oop）的设计方法，并且期望能通过对象的调用来实现更加复杂的任务。<br />
   也就是说，智能体（agent）本身被看做一个不能继承的对象，并且可以通过工具链实现参数传递，调用另一个智能体（agent）。<br />
+</div>
+<div align="center">
 郝铠锋 20230421<br />
 </div>
 <!-- DO NOT REMOVE ME -->
