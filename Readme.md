@@ -9,7 +9,7 @@
   也就是说，智能体（agent）本身被看做一个不能继承的对象，并且可以通过工具链实现参数传递，调用另一个智能体（agent）。<br />
 </div>
 <div align="center">
-郝铠锋 20230421<br />
+ 20230421<br />
 </div>
 <!-- DO NOT REMOVE ME -->
 <hr>
